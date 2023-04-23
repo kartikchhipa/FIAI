@@ -2,7 +2,7 @@
 create a conda virtual environment using the command <br>
 `conda create -n esrgan python3.11.3`
 
-Add add the packages and dependencies using `pip install -r requirements.txt` <br>
+Add the packages and dependencies using `pip install -r requirements.txt` <br>
 
 Create a new directory in the project folder and name it `model` <br>
 
